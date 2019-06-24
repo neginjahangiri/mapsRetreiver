@@ -1,0 +1,2327 @@
+﻿city_ascii,country,population
+New York,United States,19354922
+Shanghai,China,14987000
+Los Angeles,United States,12815475
+Beijing,China,11106000
+Guangzhou,China,8829000
+Chicago,United States,8675982
+London,United Kingdom,8567000
+Shenzhen,China,7581000
+Wuhan,China,7243000
+Tianjin,China,7180000
+Chongqing,China,6461000
+Miami,United States,6381966
+Dallas,United States,5733259
+Philadelphia,United States,5637884
+Houston,United States,5446468
+Washington,United States,5289420
+Atlanta,United States,5228750
+Shenyeng,China,4787000
+Boston,United States,4637537
+Dongguan,China,4528000
+Chengdu,China,4123000
+Phoenix,United States,4081849
+Xian,China,4009000
+Hechi,China,3830000
+Nanjing,China,3679000
+Guiyang,China,3662000
+Seattle,United States,3643765
+Harbin,China,3621000
+San Francisco,United States,3603761
+Zhangzhou,China,3531147
+Detroit,United States,3522206
+San Diego,United States,3210314
+Changchun,China,3183000
+Dalian,China,3167000
+Zibo,China,3061000
+Hangzhou,China,3007000
+Kunming,China,2931000
+Minneapolis,United States,2926757
+Taiyuan,China,2913000
+Qingdao,China,2866000
+Tampa,United States,2804240
+Jinan,China,2798000
+Denver,United States,2787266
+Zhengzhou,China,2636000
+Brooklyn,United States,2629150
+Fuzhou,China,2606000
+Changsha,China,2604000
+Xiangtan,China,2586948
+Lanzhou,China,2561000
+Xiamen,China,2519000
+Jinxi,China,2426000
+Shijianzhuang,China,2417000
+Jilin,China,2396000
+Nanchang,China,2350000
+Wenzhou,China,2350000
+Queens,United States,2333054
+Birmingham,United Kingdom,2285000
+Manchester,United Kingdom,2230000
+Nanchong,China,2174000
+Baltimore,United States,2170504
+Nanning,China,2167000
+Urumqi,China,2151000
+Zaozhuang,China,2145000
+Yantai,China,2116000
+Xuzhou,China,2091000
+Riverside,United States,2084749
+Linyi,China,2082000
+Saint Louis,United States,2078283
+Las Vegas,United States,2073045
+Portland,United States,2052796
+Haikou,China,2046189
+Baotou,China,2036000
+Hefei,China,2035000
+San Antonio,United States,2002530
+Suzhou,China,1964000
+Nanyang,China,1944000
+Ningbo,China,1923000
+Tangshan,China,1879000
+Datong,China,1873000
+Sacramento,United States,1854698
+San Jose,United States,1821899
+Orlando,United States,1776841
+Shuyang,China,1770000
+Shangqiu,China,1753000
+Wuxi,China,1749000
+Cleveland,United States,1730363
+Hohhot,China,1726000
+Pittsburgh,United States,1715297
+Luoyang,China,1715000
+Jianmen,China,1708000
+Daqing,China,1693000
+Luan,China,1690000
+Wanzhou,China,1680000
+Suzhou,China,1650000
+Cincinnati,United States,1648254
+Manhattan,United States,1643734
+Qiqihar,China,1641000
+Anshan,China,1639000
+Austin,United States,1638716
+Handan,China,1631000
+Taian,China,1629000
+Kansas City,United States,1615621
+Shantou,China,1601000
+Zhanjiang,China,1590000
+Indianapolis,United States,1564699
+Xiantao,China,1556000
+Weifang,China,1553000
+Xinyang,China,1541000
+Luzhou,China,1537000
+Leeds,United Kingdom,1529000
+Columbus,United States,1528314
+Ganzhou,China,1500000
+Liuzhou,China,1497000
+Virginia Beach,United States,1480383
+Fushun,China,1470000
+Changde,China,1469000
+Charlotte,United States,1467362
+Neijiang,China,1466000
+Quanzhou,China,1463000
+Bronx,United States,1455720
+Huainan,China,1451000
+Suining,China,1425000
+Mianyang,China,1396000
+Milwaukee,United States,1377808
+Maanshan,China,1366302
+Yiyang,China,1352000
+Heze,China,1338000
+Changzhou,China,1327000
+Sheffield,United Kingdom,1292900
+Chifeng,China,1277000
+Huaiyin,China,1264000
+Mudangiang,China,1244000
+Huzhou,China,1231000
+Tianshui,China,1225000
+Lupanshui,China,1221000
+Maoming,China,1217715
+Providence,United States,1206642
+Jining,China,1186000
+Glasgow,United Kingdom,1160000
+Leshan,China,1157000
+Jacksonville,United States,1156291
+Shangrao,China,1144577
+Yulin,China,1127000
+Xianyang,China,1126000
+Baoding,China,1107000
+Zigong,China,1105000
+Ankang,China,1100000
+Salt Lake City,United States,1098400
+Jinhua,China,1092852
+Zhuzhou,China,1080000
+Nashville,United States,1076645
+Xiangfan,China,1069000
+Memphis,United States,1068873
+Zhucheng,China,1060000
+Richmond,United States,1059907
+Xining,China,1048000
+Zhangjiakou,China,1046000
+New Orleans,United States,1029123
+Zhuhai,China,1023000
+Jiamusi,China,1020000
+Raleigh,United States,1018336
+Hengyang,China,1016000
+Benxi,China,1012000
+Louisville,United States,1011696
+Qinhuangdao,China,1003000
+Yongzhou,China,1000000
+Baoshan,China,1000000
+Yinchuan,China,991000
+Jiaxing,China,988000
+Guilin,China,987000
+Yichun,China,982000
+Yangquan,China,981448
+Jixi,China,965000
+Xinyi,China,962656
+Pingxiang,China,961000
+Jinzhou,China,956000
+Oklahoma City,United States,955998
+Nantong,China,947000
+Foshan,China,943000
+Bridgeport,United States,938406
+Buffalo,United States,926261
+Hartford,United States,914751
+Xinyu,China,913000
+Huaibei,China,913000
+Xinxiang,China,903000
+Yibin,China,902000
+Bengbu,China,894000
+Anyang,China,887000
+Tongliao,China,884000
+Newcastle,United Kingdom,882000
+Yichang,China,875000
+Fort Worth,United States,874168
+Yangjiang,China,872363
+Kaifeng,China,872000
+Dandong,China,870000
+Tucson,United States,868391
+Xuanzhou,China,866000
+Rizhao,China,865000
+Cardiff,United Kingdom,861400
+Jiaozuo,China,857000
+Zhenjiang,China,854000
+Zunyi,China,849000
+Anshun,China,849000
+Pingdingshan,China,849000
+El Paso,United States,845674
+Yuci,China,840000
+Yancheng,China,839000
+Linfen,China,834000
+Honolulu,United States,833671
+Omaha,United States,827786
+Yueyang,China,826000
+Nottingham,United Kingdom,825600
+Xingyi,China,816000
+Liverpool,United Kingdom,811000
+Langfang,China,810000
+Wuhu,China,810000
+Zhaotang,China,809000
+Lingyuan,China,806000
+McAllen,United States,800904
+Baoji,China,800000
+Yingkow,China,795000
+Liaoyang,China,794000
+Shaoxing,China,777000
+Yichun,China,777000
+Fuyang,China,771000
+Fuxin,China,770000
+Shiyan,China,770000
+Jincheng,China,760000
+Albuquerque,United States,758523
+Birmingham,United States,744189
+Hegang,China,743307
+Beihai,China,728978
+Shaoguan,China,720266
+Dayton,United States,718169
+Lianyungang,China,715600
+Rochester,United States,711998
+Qingyuan,China,706717
+Sarasota,United States,706245
+Changzhi,China,706000
+Fresno,United States,698021
+Huangshi,China,688090
+Allentown,United States,682899
+Tulsa,United States,672054
+Puyang,China,666322
+Concord,United States,654770
+Zhanyi,China,652604
+Cape Coral,United States,630134
+Springfield,United States,628076
+Zhuozhou,China,628000
+Colorado Springs,United States,623946
+Southend-on-Sea,United Kingdom,618386
+Charleston,United States,616085
+Changping,China,614821
+Taizhou,China,612356
+Xiangtai,China,611739
+Grand Rapids,United States,602694
+Mission Viejo,United States,600474
+Albany,United States,597270
+Knoxville,United States,585249
+Baton Rouge,United States,583613
+Anqing,China,580497
+Bakersfield,United States,574362
+Ogden,United States,573632
+Shihezi,China,573182
+Shuozhou,China,570000
+New Haven,United States,568144
+Columbia,United States,566166
+Akron,United States,565920
+Tongling,China,562832
+Weihai,China,560255
+Siping,China,555609
+Bristol,United Kingdom,553528
+Jiujiang,China,545616
+Kashgar,China,543914
+Yangzhou,China,539715
+Linxia,China,534555
+Jiangmen,China,532419
+Cangzhou,China,527681
+Jian,China,520248
+Shashi,China,520000
+Liaoyuan,China,506548
+Edinburgh,United Kingdom,504966
+Provo,United States,503695
+Brighton,United Kingdom,503008
+Bradford,United Kingdom,501700
+Shuangyashan,China,500000
+Worcester,United States,498997
+Mesa,United States,496401
+Wuwei,China,493092
+Palm Bay,United States,489912
+Yanji,China,488740
+Toledo,United States,488672
+Murrieta,United States,483681
+Wichita,United States,483057
+Des Moines,United States,481222
+Zhaoqing,China,480000
+Staten Island,United States,476015
+Jiaojing,China,471500
+Chaoyang,China,470296
+Long Beach,United States,469450
+Greenville,United States,467894
+Panzhihua,China,461513
+Leicester,United Kingdom,457983
+Jingdezhen,China,457298
+Hengshui,China,456356
+Sunderland,United Kingdom,452934
+Qitaihe,China,450617
+Belfast,United Kingdom,450406
+Chengde,China,449325
+Xuchang,China,449258
+Little Rock,United States,442699
+Wuzhou,China,442315
+Portsmouth,United Kingdom,442252
+Harrisburg,United States,441580
+Denton,United States,440146
+Madison,United States,439553
+Guangyuan,China,437435
+Reno,United States,433271
+Port Saint Lucie,United States,432589
+Bournemouth,United Kingdom,426945
+Oakland,United States,425195
+Chaozhou,China,424787
+Luohe,China,417356
+Winston-Salem,United States,416581
+Middlesbrough,United Kingdom,416042
+Meizhou,China,414930
+Xuanhua,China,409745
+Indio,United States,408097
+Durham,United States,407575
+Syracuse,United States,407259
+Chattanooga,United States,407182
+Lancaster,United States,404525
+Yining,China,403489
+Spokane,United States,403043
+Palm Coast,United States,401757
+Jingmen,China,400000
+Arlington,United States,396394
+Yuxi,China,396325
+Bonita Springs,United States,396220
+Poughkeepsie,United States,396041
+Stockton,United States,394467
+Stoke,United Kingdom,390801
+Oxnard,United States,389792
+Augusta,United States,389383
+Scranton,United States,389022
+Coventry,United Kingdom,388271
+Baicheng,China,386861
+Boise,United States,385218
+Southampton,United Kingdom,384417
+Modesto,United States,381398
+Xichang,China,379993
+Dezhou,China,379555
+Zhoukou,China,377061
+Putian,China,376558
+Kissimmee,United States,374231
+Youngstown,United States,373728
+Shache,China,373492
+Quzhou,China,370000
+Reading,United Kingdom,369804
+Longyan,China,367896
+Aurora,United States,366623
+Sanya,China,362689
+Fuyu,China,356905
+Wafangdian,China,355844
+Longxi,China,355037
+Anaheim,United States,352497
+Yumen,China,350000
+Lancaster,United States,349218
+Victorville,United States,346948
+Pensacola,United States,344400
+Fayetteville,United States,341890
+Corpus Christi,United States,341435
+Aksu,China,340020
+Yaan,China,340000
+Tieling,China,340000
+Jackson,United States,338185
+Greensboro,United States,335588
+Flint,United States,335354
+Santa Ana,United States,334136
+Hangu,China,332793
+Heyuan,China,330961
+Baishan,China,330000
+Fort Wayne,United States,328564
+Ann Arbor,United States,326288
+Fayetteville,United States,324700
+Chenzhou,China,322997
+Santa Rosa,United States,321908
+Lansing,United States,320928
+Mobile,United States,318084
+Lexington,United States,315939
+Ninde,China,314077
+Huntsville,United States,309716
+Santa Clarita,United States,309378
+Asheville,United States,309250
+Saint Paul,United States,306621
+Mengzi,China,303341
+Fort Collins,United States,303184
+Antioch,United States,302885
+Henderson,United States,302539
+Kingston upon Hull,United Kingdom,302296
+Hami,China,300848
+Trenton,United States,296869
+Swansea,United Kingdom,294339
+Lakeland,United States,291281
+Hulan Ergi,China,289999
+Huizhou,China,289201
+Shreveport,United States,287432
+Davenport,United States,287413
+Springfield,United States,287222
+Plano,United States,286143
+Rockford,United States,285562
+Newark,United States,285154
+Lincoln,United States,285118
+Round Lake Beach,United States,284607
+Tongchuan,China,282258
+Jining,China,281716
+South Bend,United States,281100
+Savannah,United States,280082
+Xinzhou,China,279607
+Irvine,United States,277453
+Jinshi,China,274000
+Blackpool,United Kingdom,272792
+Canton,United States,271184
+Jersey City,United States,270753
+Chula Vista,United States,270471
+Eugene,United States,267568
+Reading,United States,267300
+Lafayette,United States,265746
+Saint Petersburg,United States,263255
+Lubbock,United States,262505
+Peoria,United States,262010
+Hotan,China,261730
+Zhuanghe,China,261510
+Myrtle Beach,United States,260487
+Laredo,United States,260244
+Salem,United States,259816
+Columbus,United States,259160
+Montgomery,United States,255908
+Turpan,China,254900
+Chuxiong,China,254370
+Chandler,United States,253458
+Anchorage,United States,253421
+Tallahassee,United States,253030
+Suihua,China,252245
+Linhai,China,251759
+Concord,United States,250186
+Laiyang,China,250000
+Scottsdale,United States,249950
+Killeen,United States,247489
+Plymouth,United Kingdom,247297
+Glendale,United States,246709
+Wilmington,United States,245910
+Qinzhou,China,245376
+Winter Haven,United States,245237
+Norfolk,United States,244703
+Hebi,China,244662
+North Las Vegas,United States,242975
+Gilbert,United States,242354
+Ulanhot,China,241894
+Atlantic City,United States,241363
+Linchuan,China,241104
+Chesapeake,United States,240397
+Irving,United States,240373
+Hialeah,United States,239673
+Garland,United States,238002
+Zicheng,China,237042
+Luton,United Kingdom,235958
+McKinney,United States,235134
+Fremont,United States,234962
+Visalia,United States,234573
+York,United States,234245
+Kennewick,United States,232915
+Evansville,United States,232285
+Shishou,China,231787
+Nashua,United States,231262
+Hailar,China,231171
+Zhangye,China,230728
+Beipiao,China,228515
+Brownsville,United States,227883
+Liaocheng,China,226930
+Appleton,United States,222222
+Hancheng,China,222135
+Gulfport,United States,221348
+Lhasa,China,219599
+Thousand Oaks,United States,218729
+Wuhai,China,218427
+Avondale,United States,217192
+San Bernardino,United States,216995
+Bremerton,United States,216480
+Roanoke,United States,216177
+Hickory,United States,215353
+Kalamazoo,United States,214083
+Tacoma,United States,213418
+Nanping,China,213054
+Fontana,United States,211815
+Sanming,China,209444
+Green Bay,United States,208625
+College Station,United States,207308
+Pingliang,China,207256
+Moreno Valley,United States,207226
+Korla,China,206373
+Amarillo,United States,206072
+Portland,United States,206023
+Jiutai,China,205399
+Puqi,China,205164
+Fargo,United States,204820
+Santa Barbara,United States,204034
+Norwich,United States,203916
+Lianxian,China,203639
+Glendale,United States,203054
+Yonkers,United States,202019
+Huntington Beach,United States,201874
+Aurora,United States,200965
+Gainesville,United States,199695
+Huangyan,China,198713
+Olympia,United States,196078
+North Port,United States,195992
+Huntington,United States,194155
+Deltona,United States,194061
+Grand Prairie,United States,193837
+Salinas,United States,193590
+Oxford,United Kingdom,192796
+Dunhua,China,191870
+Waterbury,United States,191484
+Overland Park,United States,191278
+Norwich,United Kingdom,190756
+Aberdeen,United Kingdom,189364
+Waco,United States,188448
+Erie,United States,188079
+Cedar Rapids,United States,186160
+Hagerstown,United States,185704
+Tempe,United States,185038
+Spartanburg,United States,183184
+Clarksville,United States,182849
+Anda,China,181533
+Gastonia,United States,180974
+Lorain,United States,180239
+Sioux Falls,United States,180204
+Fort Lauderdale,United States,180072
+Zhaodong,China,179980
+Newport News,United States,179388
+High Point,United States,177874
+Santa Cruz,United States,177556
+Rancho Cucamonga,United States,177452
+Frisco,United States,177286
+Danbury,United States,177177
+Hemet,United States,176892
+Oceanside,United States,176193
+Ontario,United States,175841
+Vancouver,United States,175673
+Bose,China,175282
+Garden Grove,United States,174226
+Nampa,United States,173863
+Vallejo,United States,173844
+Lishui,China,172777
+Weinan,China,172321
+Elk Grove,United States,171844
+Pembroke Pines,United States,170712
+Fuyang,China,170023
+Medford,United States,168219
+Peoria,United States,168181
+Corona,United States,167836
+Murfreesboro,United States,167055
+Marysville,United States,166541
+Cary,United States,165904
+Fredericksburg,United States,164976
+Ocala,United States,164712
+Simao,China,162725
+Manchester,United States,160742
+Hayward,United States,160500
+Xiaogan,China,160437
+Muskegon,United States,160142
+Alexandria,United States,160035
+Springfield,United States,159394
+Lafayette,United States,159293
+York,United Kingdom,158947
+Port Arthur,United States,157934
+Palmdale,United States,157519
+Champaign,United States,156794
+Dali,China,156685
+Gainesville,United States,156248
+Yulin,China,155960
+Frederick,United States,154972
+Lakewood,United States,154958
+Beian,China,154936
+Guangshui,China,154771
+Tuscaloosa,United States,154204
+Sunnyvale,United States,153656
+Lake Charles,United States,153633
+Hollywood,United States,153627
+Pasadena,United States,153520
+Pomona,United States,152939
+Kansas City,United States,152938
+Dingzhou,China,152934
+Wenshan,China,152388
+Deyang,China,152194
+Escondido,United States,151969
+Dundee,United Kingdom,151592
+Binghamton,United States,150747
+Warner Robins,United States,149617
+New Bedford,United States,149528
+Gejiu,China,149105
+Topeka,United States,148960
+Beaumont,United States,148954
+Paterson,United States,148678
+Joliet,United States,148462
+Jiayuguan,China,148279
+Leesburg,United States,148161
+Elkhart,United States,148131
+Odessa,United States,147810
+Naperville,United States,147682
+Fairfield,United States,147582
+Torrance,United States,146758
+Hanzhong,China,145986
+Panama City,United States,145239
+Bellevue,United States,144444
+Jinchang,China,144363
+Midland,United States,144247
+Merced,United States,144117
+Mesquite,United States,143949
+Ipswich,United Kingdom,143767
+Houma,United States,142969
+Charleston,United States,142858
+Pasadena,United States,142647
+Pueblo,United States,142351
+Altay,China,142000
+Jieshou,China,141993
+Nongan,China,141482
+Tyler,United States,141116
+Orange,United States,140560
+Fullerton,United States,140392
+Miramar,United States,140328
+Santa Maria,United States,140219
+Athens,United States,140169
+Peterborough,United Kingdom,140141
+Dunhuang,China,140094
+Columbia,United States,139945
+Yuma,United States,138802
+Zalantun,China,138032
+Olathe,United States,137472
+Thornton,United States,136978
+Harlingen,United States,136968
+Grand Junction,United States,136688
+Shizuishan,China,136570
+West Valley City,United States,136170
+Carrollton,United States,135710
+Roseville,United States,135329
+Warren,United States,135022
+Bloomington,United States,134892
+Hampton,United States,134669
+Surprise,United States,134085
+Las Cruces,United States,133988
+Greeley,United States,133750
+Yunxian,China,133558
+Yakima,United States,133233
+Coral Springs,United States,133037
+Sterling Heights,United States,132631
+Mauldin,United States,132402
+Racine,United States,131467
+Stamford,United States,130824
+Shuangcheng,China,130710
+Elizabeth,United States,130215
+Cambridge,United Kingdom,128488
+Kent,United States,128458
+Greenville,United States,128385
+Simi Valley,United States,127864
+Burlington,United States,127374
+Santa Clara,United States,127134
+Johnson City,United States,126589
+Macheng,China,126366
+Tengchong,China,126058
+Boulder,United States,126054
+Bellingham,United States,126015
+Fort Smith,United States,125562
+Lynchburg,United States,125004
+Kenosha,United States,124888
+Laiwu,China,124108
+South Lyon,United States,123850
+Round Rock,United States,123678
+Jiaohe,China,123018
+Berkeley,United States,122324
+Nancha,China,121367
+Xilinhot,China,120965
+Billings,United States,120800
+Redding,United States,120270
+Yuba City,United States,120186
+Duluth,United States,120101
+Huanghua,China,120000
+Pearland,United States,119940
+Leominster,United States,119400
+Saginaw,United States,119336
+Iowa City,United States,119091
+Arvada,United States,118807
+Tongren,China,118290
+Seaside,United States,118110
+Kingsport,United States,118001
+Independence,United States,117306
+Richardson,United States,116783
+Rochester,United States,116713
+Huanren,China,116621
+Taonan,China,116611
+Yakeshi,China,116284
+Gilroy,United States,116235
+El Monte,United States,116109
+Rock Hill,United States,115963
+Buizhou,China,115893
+Clearwater,United States,115513
+Monroe,United States,115462
+Dover,United States,115352
+Carlsbad,United States,115330
+Norman,United States,115065
+Abilene,United States,114964
+Bloomington,United States,114959
+Texas City,United States,114546
+Temecula,United States,114327
+Utica,United States,114318
+Saint Cloud,United States,114225
+Zhijiang,China,113907
+Saint George,United States,113906
+West Jordan,United States,113905
+Costa Mesa,United States,113825
+Miami Gardens,United States,113750
+Cambridge,United States,113630
+Exeter,United Kingdom,113118
+Downey,United States,113092
+Coeur d'Alene,United States,112935
+Westminster,United States,112812
+Shaowu,China,112585
+Elgin,United States,112456
+El Centro,United States,112145
+Waterloo,United States,112060
+Kuqa,China,111499
+Lowell,United States,111346
+Gresham,United States,111053
+North Charleston,United States,110861
+Inglewood,United States,110598
+Pompano Beach,United States,110473
+Centennial,United States,110250
+West Palm Beach,United States,110222
+Everett,United States,110079
+Santa Fe,United States,110078
+Linqing,China,110046
+Richmond,United States,110040
+Hailun,China,109881
+Dali,China,109696
+Clovis,United States,109691
+Tieli,China,109636
+Pottstown,United States,109437
+Heihe,China,109427
+Jacksonville,United States,108872
+Karamay,China,108769
+Broken Arrow,United States,108303
+Burlington,United States,108277
+Nehe,China,108253
+West Covina,United States,107598
+Turlock,United States,107208
+Golmud,China,107092
+Daly City,United States,107074
+Eau Claire,United States,107068
+Hillsboro,United States,106894
+Sandy Springs,United States,106739
+Longjiang,China,106384
+Sioux City,United States,106279
+Chico,United States,106268
+Norwalk,United States,106084
+Salisbury,United States,106034
+Lewisville,United States,106021
+Davie,United States,105149
+League City,United States,104903
+Burbank,United States,104834
+San Mateo,United States,104748
+El Cajon,United States,103894
+Rialto,United States,103562
+Bend,United States,103349
+Houma,China,102400
+Charlottesville,United States,102016
+La Crosse,United States,101886
+Temple,United States,101876
+Vista,United States,101568
+Renton,United States,101379
+Sparks,United States,100888
+Holland,United States,100885
+Vacaville,United States,100801
+Logan,United States,100774
+Allen,United States,100685
+Longview,United States,100196
+Chamdo,China,100000
+Meridian,United States,99926
+San Angelo,United States,99890
+Tumen,China,99721
+Wichita Falls,United States,99617
+Longmont,United States,99398
+Fengzhen,China,99174
+Manteca,United States,98736
+Boca Raton,United States,98150
+Spokane Valley,United States,97847
+Orem,United States,97839
+Middletown,United States,97762
+Compton,United States,97612
+Idaho Falls,United States,97548
+Beaverton,United States,97514
+Bismarck,United States,97457
+Lawrence,United States,97341
+Prescott Valley,United States,97066
+Shangzhi,China,96980
+Federal Way,United States,96690
+San Marcos,United States,96198
+Rio Rancho,United States,96159
+Tracy,United States,95982
+Brockton,United States,95672
+South Gate,United States,95430
+Boli,China,95260
+Hesperia,United States,94859
+Roswell,United States,94786
+Mandeville,United States,94760
+Vineland,United States,94734
+Portsmouth,United States,94572
+Dearborn,United States,94491
+Sunrise,United States,94323
+Quincy,United States,94166
+Yishui,China,94115
+Livonia,United States,94105
+Lynn,United States,94063
+Plantation,United States,93909
+Slidell,United States,93882
+Manzhouli,China,93620
+Daan,China,93297
+Bath,United Kingdom,93238
+Carson,United States,92735
+Terre Haute,United States,92722
+Blacksburg,United States,92573
+Portsmouth,United States,92513
+Fuan,China,92470
+Miami Beach,United States,92307
+Santa Monica,United States,92306
+Dover,United States,92234
+Carmel,United States,92198
+Hanford,United States,92066
+Danjiangkou,China,92008
+Lafayette,United States,91985
+Edmond,United States,91950
+Fishers,United States,91832
+Westminster,United States,91564
+Lawton,United States,91383
+Florence,United States,91311
+Pingdu,China,91077
+Livermore,United States,91030
+Lees Summit,United States,90597
+Menifee,United States,90595
+San Leandro,United States,90553
+Albany,United States,90515
+Bowling Green,United States,90448
+Edinburg,United States,90280
+Suffolk,United States,90237
+Missoula,United States,90218
+Chino,United States,89797
+Auburn,United States,89577
+Chester,United Kingdom,89531
+Fujin,China,89442
+Fall River,United States,89420
+Norwalk,United States,89005
+Decatur,United States,88997
+Newton,United States,88994
+Rapid City,United States,88979
+Wangqing,China,88732
+Muncie,United States,88688
+Kirkland,United States,88630
+Sugar Land,United States,88485
+State College,United States,88285
+Citrus Heights,United States,87931
+Hawthorne,United States,87854
+Jackson,United States,87819
+Waukegan,United States,87729
+O'Fallon,United States,87597
+Changting,China,87458
+Mishan,China,87257
+Nenjiang,China,87236
+Napa,United States,87032
+Dalton,United States,86841
+Whittier,United States,86838
+Redwood City,United States,86685
+Mount Pleasant,United States,86668
+Clifton,United States,86607
+Anderson,United States,86481
+Joplin,United States,86298
+Panshi,China,86216
+Newport Beach,United States,86160
+Bloomington,United States,85866
+Helong,China,85756
+Alhambra,United States,85396
+Hoover,United States,84920
+Largo,United States,84754
+Mission,United States,84424
+Conroe,United States,84378
+Johns Creek,United States,84350
+Linjiang,China,84315
+Lake Forest,United States,84293
+Bryan,United States,84021
+Port Huron,United States,83841
+Troy,United States,83813
+Londonderry,United Kingdom,83652
+Madera,United States,83636
+Springfield,United States,83286
+Buena Park,United States,83015
+Pleasanton,United States,83007
+Cicero,United States,82552
+Nangong,China,82386
+Alexandria,United States,82131
+Melbourne,United States,82011
+Westland,United States,81747
+Mountain View,United States,81438
+Somerville,United States,81360
+Cranston,United States,81202
+Farmington Hills,United States,81050
+Hattiesburg,United States,81036
+Lakewood,United States,80967
+Warwick,United States,80871
+Williamsburg,United States,80855
+Saint Joseph,United States,80818
+Auburn,United States,80776
+Brooklyn Park,United States,80581
+Deerfield Beach,United States,80571
+Tustin,United States,80498
+Alton,United States,80462
+Chino Hills,United States,80374
+Lawrence,United States,80162
+Texarkana,United States,80145
+Xigaze,China,80000
+Koktokay,China,80000
+New Rochelle,United States,79946
+Fort Myers,United States,79943
+Goodyear,United States,79858
+Springdale,United States,79599
+Pharr,United States,79487
+Valdosta,United States,79294
+Alameda,United States,79177
+Parma,United States,79167
+New Braunfels,United States,79152
+Kokomo,United States,79099
+Newark,United States,79025
+Shulan,China,78764
+Cheyenne,United States,78728
+Flagstaff,United States,78628
+Plymouth,United States,78395
+Franklin,United States,78321
+Pingyi,China,78254
+Florence,United States,78112
+Milpitas,United States,78106
+Folsom,United States,78038
+Kankakee,United States,78001
+Lebanon,United States,77973
+Perris,United States,77879
+Bellflower,United States,77772
+Linkou,China,77754
+Boynton Beach,United States,77702
+Watsonville,United States,77700
+Anderson,United States,77426
+Elizabethtown,United States,77317
+Wheeling,United States,77206
+Jiexiu,China,77178
+Upland,United States,76999
+Baytown,United States,76804
+Battle Creek,United States,76803
+Porterville,United States,76729
+Loveland,United States,76701
+Layton,United States,76691
+Flower Mound,United States,76681
+Hammond,United States,76618
+Lake Jackson,United States,76565
+Davis,United States,76524
+Zephyrhills,United States,76416
+Baldwin Park,United States,76402
+Altoona,United States,76096
+Gary,United States,76008
+Tailai,China,75992
+Wyoming,United States,75938
+Saint Augustine,United States,75932
+San Ramon,United States,75931
+Bethlehem,United States,75707
+Cedar Park,United States,75704
+Arlington Heights,United States,75634
+Union City,United States,75343
+Bolingbrook,United States,75201
+Anniston,United States,75169
+Oshkosh,United States,75154
+Evanston,United States,74756
+Camarillo,United States,74682
+Greenock,United Kingdom,74635
+Camden,United States,74532
+Hilton Head Island,United States,74500
+Missouri City,United States,74497
+Shanxian,China,74459
+San Marcos,United States,74212
+Rochester Hills,United States,74205
+Schaumburg,United States,74184
+Winchester,United States,74031
+Harrisonburg,United States,74023
+Wausau,United States,73933
+Jonesboro,United States,73788
+Jackson,United States,73685
+Rancho Cordova,United States,73563
+Southfield,United States,73208
+Owensboro,United States,73173
+Apple Valley,United States,73077
+Pasco,United States,73013
+Conway,United States,72894
+Lodi,United States,72890
+New Britain,United States,72710
+Mansfield,United States,72635
+Carlisle,United Kingdom,72633
+Lanxi,China,72528
+Waukesha,United States,72489
+Morgantown,United States,72453
+Keshan,China,72403
+Pittsburg,United States,72141
+Sumter,United States,72131
+Pawtucket,United States,72001
+Lauderhill,United States,71970
+Cleveland,United States,71944
+Dothan,United States,71620
+Redlands,United States,71554
+Wenatchee,United States,71512
+Passaic,United States,71247
+Anlu,China,71198
+Wilmington,United States,71106
+Lynwood,United States,71099
+Maple Grove,United States,71066
+Pocatello,United States,71020
+South Jordan,United States,70954
+Weston,United States,70944
+Georgetown,United States,70685
+Scarborough,United Kingdom,70571
+Janesville,United States,70518
+Baiquan,China,70472
+North Richland Hills,United States,70441
+Union City,United States,70387
+Saint Charles,United States,70329
+Rongzhag,China,70000
+Sheboygan,United States,69920
+Homestead,United States,69907
+Bristol,United States,69865
+Lima,United States,69798
+Walnut Creek,United States,69773
+Woodbury,United States,69756
+West Bend,United States,69577
+Mount Vernon,United States,69528
+Hammond,United States,69180
+Daphne,United States,69065
+Ayr,United Kingdom,69042
+Liuhe,China,68938
+Mansfield,United States,68928
+Decatur,United States,68816
+Delray Beach,United States,68749
+Gaithersburg,United States,68710
+Mount Vernon,United States,68703
+Palatine,United States,68644
+Dubuque,United States,68573
+Bossier City,United States,68554
+Buckeye,United States,68453
+Rockville,United States,68401
+Broomfield,United States,68341
+Victoria,United States,68271
+Yorba Linda,United States,68229
+Ames,United States,68156
+Daytona Beach,United States,68055
+Redondo Beach,United States,67908
+Minxian,China,67826
+Carbondale,United States,67807
+Hanover,United States,67679
+Saratoga Springs,United States,67582
+DeKalb,United States,67500
+Casper,United States,67462
+Kenner,United States,67451
+South San Francisco,United States,67429
+Sherman,United States,67354
+Petaluma,United States,67316
+Bayonne,United States,67186
+Palo Alto,United States,67178
+Weirton,United States,67082
+Bay City,United States,67059
+Eagan,United States,66627
+Los Lunas,United States,66613
+Corvallis,United States,66441
+Rogers,United States,66430
+Lake Elsinore,United States,66411
+Laguna Niguel,United States,66334
+Huinan,China,66315
+Grand Forks,United States,66159
+North Little Rock,United States,65911
+Alpharetta,United States,65799
+Tamarac,United States,65669
+Schenectady,United States,65625
+Great Falls,United States,65624
+Longview,United States,65619
+West Des Moines,United States,65608
+Shawnee,United States,65513
+East Orange,United States,65378
+San Clemente,United States,65267
+Michigan City,United States,65144
+Jupiter,United States,64976
+Wellington,United States,64848
+Rocklin,United States,64838
+Rocky Mount,United States,64732
+Fairbanks,United States,64732
+Elmira,United States,64664
+Johnstown,United States,64615
+Blaine,United States,64557
+Sammamish,United States,64548
+Eden Prairie,United States,64400
+Redmond,United States,64291
+Glens Falls,United States,64287
+Parkersburg,United States,64253
+Qinggang,China,64182
+Skokie,United States,63978
+Tulare,United States,63855
+Lakeville,United States,63748
+Haverhill,United States,63639
+Pico Rivera,United States,63522
+Beloit,United States,63498
+Pflugerville,United States,63359
+Eastvale,United States,63211
+Port Orange,United States,63203
+Montebello,United States,63192
+Encinitas,United States,63184
+Rowlett,United States,62868
+Monessen,United States,62833
+Sebring,United States,62814
+Lehi,United States,62712
+Coon Rapids,United States,62656
+La Habra,United States,62466
+Waltham,United States,62442
+Brentwood,United States,62433
+Ankeny,United States,62416
+San Luis Obispo,United States,62398
+Springfield,United States,62353
+Council Bluffs,United States,62316
+Castle Rock,United States,62276
+North Miami,United States,62225
+Hamilton,United States,62092
+Mankato,United States,61912
+Noblesville,United States,61882
+Gadsden,United States,61656
+Moore,United States,61523
+Fengcheng,China,61469
+Burnsville,United States,61439
+National City,United States,61363
+Taylor,United States,61276
+Malden,United States,61246
+Doral,United States,61130
+Marietta,United States,61048
+Monterey Park,United States,61044
+Coconut Creek,United States,61010
+Rome,United States,60966
+Dublin,United States,60939
+Albany,United States,60795
+Cupertino,United States,60777
+Langzhong,China,60542
+Morristown,United States,60316
+Lakewood,United States,60296
+Gardena,United States,60224
+Bristol,United States,60223
+Millcreek,United States,60192
+Woodland,United States,60062
+La Mesa,United States,60021
+Taylorsville,United States,59992
+Benton Harbor,United States,59939
+West Allis,United States,59934
+Meriden,United States,59927
+Chapel Hill,United States,59862
+Pontiac,United States,59792
+Novi,United States,59715
+Saint Clair Shores,United States,59635
+Beckley,United States,59629
+Dengzhou,China,59338
+Sanford,United States,59317
+Gannan,China,59239
+Midland,United States,59138
+Royal Oak,United States,59112
+Bangor,United States,59107
+Bartlett,United States,59102
+San Rafael,United States,59070
+White Plains,United States,59047
+Goldsboro,United States,58972
+Bowie,United States,58859
+Huntington Park,United States,58822
+Arcadia,United States,58799
+Lewiston,United States,58796
+Columbus,United States,58771
+Orland Park,United States,58765
+Casa Grande,United States,58632
+Staunton,United States,58470
+Margate,United States,58430
+Jefferson City,United States,58279
+Des Plaines,United States,58193
+Santee,United States,58113
+Middletown,United States,57973
+Hot Springs,United States,57819
+Medford,United States,57797
+Suileng,China,57789
+Walla Walla,United States,57779
+Carson City,United States,57525
+Hendersonville,United States,57517
+Titusville,United States,57497
+Greenwood,United States,57375
+Midwest City,United States,57308
+Manhattan,United States,57284
+Saint Peters,United States,57178
+Taunton,United States,57139
+New Brunswick,United States,57073
+East Stroudsburg,United States,56771
+Smyrna,United States,56685
+Tinley Park,United States,56668
+Diamond Bar,United States,56665
+Bradenton,United States,56508
+Alxa Zuoqi,China,56387
+Fountain Valley,United States,56313
+Pittsfield,United States,56291
+Richland,United States,56243
+Huntersville,United States,56212
+Shoreline,United States,56189
+Oak Lawn,United States,56087
+Novato,United States,55980
+Commerce City,United States,55923
+Changling,China,55841
+Hempstead,United States,55806
+Cartersville,United States,55794
+Dearborn Heights,United States,55758
+Kingston,United States,55695
+Berwyn,United States,55550
+Chicopee,United States,55515
+Hazleton,United States,55444
+Ithaca,United States,55439
+Xinqing,China,55415
+Highland,United States,55342
+Lake Havasu City,United States,55341
+Kettering,United States,55175
+Euless,United States,55174
+Hoboken,United States,55131
+Palm Beach Gardens,United States,55036
+Watertown,United States,54980
+Grants Pass,United States,54973
+Blue Springs,United States,54945
+Paramount,United States,54909
+West Haven,United States,54843
+Colton,United States,54828
+Caldwell,United States,54660
+Ningan,China,54636
+Fond du Lac,United States,54629
+Arroyo Grande,United States,54620
+Cathedral City,United States,54596
+Cape Girardeau,United States,54588
+Rosemead,United States,54554
+Delano,United States,54471
+Stonecrest,United States,54471
+Twin Falls,United States,54455
+Williamsport,United States,54389
+Eagle Pass,United States,54299
+Normal,United States,54284
+West New York,United States,54227
+Leesburg,United States,54215
+Beaufort,United States,54207
+Parker,United States,54202
+Southaven,United States,54031
+Brunswick,United States,54017
+Revere,United States,53993
+Grapevine,United States,53982
+Bozeman,United States,53949
+Mount Prospect,United States,53930
+Elyria,United States,53883
+Yucaipa,United States,53683
+DeSoto,United States,53568
+Lenexa,United States,53553
+Brookhaven,United States,53518
+West Sacramento,United States,53512
+Lewiston,United States,53436
+Grand Island,United States,53424
+Bellevue,United States,53424
+Wheaton,United States,53373
+Qingan,China,53206
+Tigard,United States,53148
+Minnetonka,United States,53085
+Peabody,United States,52987
+City of Milford (balance),United States,52970
+Palm Desert,United States,52932
+Lompoc,United States,52856
+Pinellas Park,United States,52854
+Perth Amboy,United States,52823
+Farmington,United States,52555
+Glendora,United States,52445
+Apple Valley,United States,52435
+Chambersburg,United States,52418
+Oak Park,United States,52261
+Placentia,United States,52157
+Edina,United States,51958
+Kentwood,United States,51747
+Burien,United States,51671
+Aliso Viejo,United States,51671
+Sierra Vista,United States,51571
+Hoffman Estates,United States,51567
+Apopka,United States,51564
+Florissant,United States,51443
+Bloomsburg,United States,51356
+Plainfield,United States,51327
+Saint Cloud,United States,51282
+Coral Gables,United States,51095
+Cerritos,United States,51020
+Hinesville,United States,51001
+New Bern,United States,50617
+Apex,United States,50451
+Summerville,United States,50388
+Collierville,United States,50286
+Methuen,United States,50259
+Lakewood,United States,50249
+Helena,United States,50227
+Poway,United States,50041
+Bairin Zuoqi,China,50000
+Smyrna,United States,49969
+Minot,United States,49884
+Azusa,United States,49864
+Wylie,United States,49826
+Traverse City,United States,49806
+Tacheng,China,49796
+Lacey,United States,49748
+Dunwoody,United States,49609
+Troy,United States,49565
+Downers Grove,United States,49540
+Bullhead City,United States,49531
+Bedford,United States,49486
+Wilson,United States,49372
+Bentonville,United States,49298
+Murray,United States,49295
+Cuyahoga Falls,United States,49247
+Leander,United States,49234
+Mishawaka,United States,49177
+Fengjie,China,49168
+Roswell,United States,49119
+Monroe,United States,49115
+La Mirada,United States,49095
+Cypress,United States,49064
+Cumberland,United States,49033
+Saint Louis Park,United States,49029
+Reedley,United States,48970
+Pascagoula,United States,48946
+Madison,United States,48861
+East Lansing,United States,48844
+Portage,United States,48816
+Kannapolis,United States,48806
+Rancho Santa Margarita,United States,48793
+Cedar Hill,United States,48710
+Lawrence,United States,48704
+Ceres,United States,48697
+Uniontown,United States,48657
+Rio Grande City,United States,48633
+Paducah,United States,48629
+Cookeville,United States,48587
+Findlay,United States,48582
+Stillwater,United States,48550
+Danville,United States,48518
+Covina,United States,48462
+Niagara Falls,United States,48460
+Enid,United States,48325
+Wauwatosa,United States,48277
+San Jacinto,United States,48254
+Palm Springs,United States,48142
+Morehead City,United States,48125
+Littleton,United States,47734
+Draper,United States,47710
+Lincoln,United States,47674
+Glenview,United States,47659
+Dublin,United States,47619
+East Providence,United States,47600
+Chesterfield,United States,47588
+Newark,United States,47531
+Roseville,United States,47501
+Jeffersonville,United States,47383
+Keller,United States,47266
+Sahuarita,United States,47229
+Euclid,United States,47201
+Sandusky,United States,47188
+Carrollton,United States,47140
+Danville,United States,47135
+Mentor,United States,47121
+Yishan,China,47062
+Beaumont,United States,46967
+Beavercreek,United States,46948
+Pine Bluff,United States,46850
+Salina,United States,46782
+Maricopa,United States,46741
+New Philadelphia,United States,46736
+Elmhurst,United States,46662
+Galveston,United States,46561
+Little Elm,United States,46548
+Leavenworth,United States,46517
+Middletown,United States,46478
+Ocoee,United States,46402
+Everett,United States,46324
+West Lafayette,United States,46269
+Hollister,United States,46183
+Burleson,United States,46145
+Lufkin,United States,45912
+Biloxi,United States,45908
+Oroville,United States,45655
+Shaoyang,China,45617
+Fort Pierce,United States,45581
+Bothell,United States,45533
+Coachella,United States,45443
+Sayreville,United States,45325
+Marion,United States,45324
+Hackensack,United States,45248
+Tupelo,United States,45231
+Inverness,United Kingdom,45158
+Cutler Bay,United States,45101
+Morgan Hill,United States,45037
+Oakland Park,United States,45035
+Eureka,United States,45010
+Manitowoc,United States,44932
+Quincy,United States,44860
+Marana,United States,44792
+Danville,United States,44786
+Strongsville,United States,44744
+Farmington,United States,44664
+Selma,United States,44626
+Attleboro,United States,44590
+Cleveland Heights,United States,44562
+Del Rio,United States,44424
+Haltom City,United States,44417
+Oro Valley,United States,44350
+Pinehurst,United States,44299
+Altamonte Springs,United States,44277
+Kingman,United States,44212
+Rockwall,United States,44208
+Lancaster,United States,44200
+North Lauderdale,United States,44198
+North Miami Beach,United States,44124
+Bountiful,United States,44107
+Roseburg,United States,43948
+Plainfield,United States,43926
+Adrian,United States,43877
+Lombard,United States,43745
+Desert Hot Springs,United States,43730
+Urbandale,United States,43592
+Winder,United States,43583
+Winter Garden,United States,43536
+Stevens Point,United States,43520
+Freeport,United States,43508
+Kyle,United States,43480
+Salem,United States,43415
+Riverton,United States,43344
+San Bruno,United States,43299
+Peachtree Corners,United States,43268
+Moorhead,United States,43122
+Linden,United States,43056
+Hutchinson,United States,42940
+Concord,United States,42935
+Clovis,United States,42875
+Ergun Zuoqi,China,42849
+Rohnert Park,United States,42838
+Ormond Beach,United States,42816
+Brea,United States,42777
+Bell Gardens,United States,42747
+Prescott,United States,42731
+The Colony,United States,42721
+Kearny,United States,42670
+Brentwood,United States,42667
+Goose Creek,United States,42619
+Fairfield,United States,42566
+Spring Hill,United States,42563
+Hulin,China,42559
+Richmond,United States,42508
+Klamath Falls,United States,42463
+Rancho Palos Verdes,United States,42364
+Weatherford,United States,42278
+Wake Forest,United States,42269
+Moline,United States,42231
+Edmonds,United States,42209
+Greenwood,United States,42174
+Urbana,United States,41989
+Zanesville,United States,41969
+Coppell,United States,41941
+Beverly,United States,41816
+Woonsocket,United States,41759
+Oakley,United States,41714
+Westfield,United States,41700
+Bluefield,United States,41653
+Belleville,United States,41649
+Centralia,United States,41643
+McMinnville,United States,41583
+Cedar Falls,United States,41570
+Campbell,United States,41544
+Manassas,United States,41501
+Clarksburg,United States,41453
+Shelton,United States,41397
+La Quinta,United States,41304
+Jamestown,United States,41236
+Buffalo Grove,United States,41226
+Marion,United States,41165
+Bartlett,United States,41149
+Pottsville,United States,41138
+Grove City,United States,41022
+Puyallup,United States,41001
+Maplewood,United States,40918
+Shakopee,United States,40893
+Wilkes-Barre,United States,40806
+Fitchburg,United States,40793
+Oviedo,United States,40785
+Hobbs,United States,40614
+Muskogee,United States,40588
+Torrington,United States,40583
+Brighton,United States,40562
+Apache Junction,United States,40538
+San Gabriel,United States,40514
+Covington,United States,40455
+Crystal Lake,United States,40421
+Weslaco,United States,40358
+Calexico,United States,40351
+Holyoke,United States,40341
+La Puente,United States,40322
+Chelsea,United States,40227
+Orongen Zizhiqi,China,40128
+Richmond,United States,40111
+Schertz,United States,40092
+Statesboro,United States,40090
+Carol Stream,United States,39989
+Streamwood,United States,39978
+Hanggin Houqi,China,39954
+Yian,China,39924
+Marlborough,United States,39873
+Friendswood,United States,39839
+Hallandale Beach,United States,39831
+New Castle,United States,39742
+New Berlin,United States,39740
+Westerville,United States,39737
+Woburn,United States,39701
+Perth,United Kingdom,39654
+Romeoville,United States,39632
+Bartlesville,United States,39568
+Warren,United States,39562
+Huntsville,United States,39542
+Westfield,United States,39493
+Duncanville,United States,39487
+Spanish Fork,United States,39443
+Wentzville,United States,39414
+Marion,United States,39400
+Lancaster,United States,39386
+Annapolis,United States,39321
+Keizer,United States,39315
+Culver City,United States,39283
+Montclair,United States,39276
+Delaware,United States,39267
+Herriman,United States,39224
+Lake Oswego,United States,39196
+Queen Creek,United States,39184
+Germantown,United States,39141
+Los Banos,United States,39122
+Pacifica,United States,39087
+Asheboro,United States,39076
+Hurst,United States,39051
+Indian Trail,United States,38980
+Northglenn,United States,38928
+Milton,United States,38924
+Newnan,United States,38909
+Pleasant Grove,United States,38845
+Enterprise,United States,38737
+Plant City,United States,38714
+Frankfort,United States,38664
+Roy,United States,38595
+Royal Palm Beach,United States,38592
+Columbia,United States,38577
+Wheeling,United States,38562
+Stanton,United States,38528
+Butler,United States,38447
+Martinez,United States,38373
+Meridian,United States,38294
+Lynnwood,United States,38273
+Aventura,United States,38202
+Junction City,United States,38178
+Carpentersville,United States,38162
+Rock Island,United States,38110
+Lake Worth,United States,38107
+Brookfield,United States,38045
+Huber Heights,United States,37986
+Hanover Park,United States,37982
+Valley Stream,United States,37935
+Oswego,United States,37917
+Fort Lee,United States,37907
+Reynoldsburg,United States,37847
+Mooresville,United States,37820
+Moses Lake,United States,37774
+Rosenberg,United States,37661
+Forney,United States,37521
+Park Ridge,United States,37494
+Issaquah,United States,37487
+Menomonee Falls,United States,37443
+Olive Branch,United States,37435
+London,United States,37424
+Gallatin,United States,37351
+Albertville,United States,37220
+Mount Pleasant,United States,37206
+Farmers Branch,United States,37088
+West Hollywood,United States,37080
+Monrovia,United States,37061
+Kalispell,United States,37024
+San Juan,United States,36981
+Wildomar,United States,36932
+Crestview,United States,36880
+Greenfield,United States,36827
+Addison,United States,36820
+Moorpark,United States,36802
+Cottage Grove,United States,36793
+Portage,United States,36672
+Lincoln Park,United States,36655
+Winter Springs,United States,36635
+Calumet City,United States,36633
+Portsmouth,United States,36622
+Cedar City,United States,36592
+Dunedin,United States,36545
+New Albany,United States,36461
+Saint Marys,United States,36447
+Dover,United Kingdom,36384
+Temple City,United States,36367
+Oregon City,United States,36360
+Oak Creek,United States,36354
+Roseville,United States,36314
+Phenix City,United States,36219
+Owasso,United States,36215
+Cleburne,United States,36193
+Richfield,United States,36151
+Franklin,United States,36143
+Tucker,United States,36130
+Lauderdale Lakes,United States,36069
+San Juan Capistrano,United States,36064
+Claremont,United States,36015
+Hilliard,United States,35939
+Manhattan Beach,United States,35924
+La Grange,United States,35918
+Shawnee,United States,35833
+Bettendorf,United States,35813
+Bell,United States,35811
+Benton,United States,35789
+Watertown,United States,35756
+Cooper City,United States,35732
+La Vergne,United States,35717
+West Fargo,United States,35708
+Georgetown,United States,35586
+Wildwood,United States,35501
+Prattville,United States,35498
+Inver Grove Heights,United States,35392
+La Porte,United States,35371
+Waxahachie,United States,35340
+Paradise,United States,35337
+Upper Arlington,United States,35337
+Gahanna,United States,35297
+East Point,United States,35282
+Woodburn,United States,35267
+Peachtree City,United States,35262
+Holly Springs,United States,35223
+El Mirage,United States,35216
+Clermont,United States,35211
+Nacogdoches,United States,35192
+Granbury,United States,35138
+Monroe,United States,35065
+Lockport,United States,35011
+Pleasant Hill,United States,34987
+Merrillville,United States,34871
+Brunswick,United States,34867
+Oswego,United States,34833
+Auburn,United States,34818
+Stow,United States,34769
+Mount Juliet,United States,34726
+Riviera Beach,United States,34674
+Oak Harbor,United States,34663
+Leawood,United States,34659
+Grass Valley,United States,34650
+Sanford,United States,34557
+University City,United States,34549
+Norristown,United States,34510
+Beverly Hills,United States,34484
+Foster City,United States,34412
+Englewood,United States,34407
+Galesburg,United States,34406
+Kearney,United States,34386
+Gillette,United States,34378
+Russellville,United States,34373
+Menlo Park,United States,34357
+Kennesaw,United States,34344
+San Dimas,United States,34326
+Vestavia Hills,United States,34291
+Middletown,United States,34132
+Sonoma,United States,34089
+Chester,United States,34077
+Adelanto,United States,34066
+Glendale Heights,United States,34058
+Socorro,United States,34048
+Tooele,United States,34029
+Lebanon,United States,34027
+Cottonwood Heights,United States,33996
+Dana Point,United States,33934
+Deer Park,United States,33891
+Newark,United States,33858
+Bridgeton,United States,33856
+Salisbury,United States,33849
+Arcata,United States,33806
+Long Beach,United States,33750
+Fair Lawn,United States,33710
+Douglasville,United States,33675
+Woodridge,United States,33598
+Fairborn,United States,33541
+Franklin,United States,33532
+Laramie,United States,33508
+North Ridgeville,United States,33436
+University Place,United States,33401
+Northbrook,United States,33400
+Valparaiso,United States,33376
+Martinsville,United States,33363
+Springville,United States,33294
+Post Falls,United States,33290
+Pullman,United States,33276
+Mason,United States,33235
+Goshen,United States,33220
+Midvale,United States,33208
+Alabaster,United States,33202
+Foley,United States,33113
+Lawndale,United States,33078
+Estero,United States,33048
+Calhoun,United States,33029
+Fairmont,United States,32988
+Andover,United States,32902
+Sun Prairie,United States,32894
+Plainfield,United States,32865
+Carlsbad,United States,32848
+Key West,United States,32820
+Warsaw,United States,32813
+Lake Stevens,United States,32785
+Elk Grove Village,United States,32776
+Alamogordo,United States,32745
+Pekin,United States,32731
+Spring Valley,United States,32724
+Saint Charles,United States,32714
+Copperas Cove,United States,32706
+Ridgecrest,United States,32579
+Bowling Green,United States,32572
+Eastpointe,United States,32511
+DeLand,United States,32506
+Quiemo,China,32494
+La Verne,United States,32461
+Bethel Park,United States,32404
+Garfield,United States,32393
+Massillon,United States,32342
+Florence,United States,32305
+College Park,United States,32303
+Westlake,United States,32297
+Eagle Mountain,United States,32204
+Oxford,United States,32203
+Parkland,United States,32202
+Rome,United States,32185
+Starkville,United States,32164
+Matthews,United States,32117
+Dania Beach,United States,32030
+Coos Bay,United States,32030
+Arxan,China,32023
+Southlake,United States,31824
+Princeton,United States,31822
+Kaysville,United States,31776
+Alliance,United States,31758
+Petersburg,United States,31750
+North Olmsted,United States,31734
+Columbus,United States,31701
+Redmond,United States,31695
+Hopkinsville,United States,31681
+Chillicothe,United States,31671
+Woodstock,United States,31564
+Liberty,United States,31507
+Naugatuck,United States,31461
+Mundelein,United States,31385
+Clearfield,United States,31363
+Savage,United States,31352
+Laguna Hills,United States,31318
+Wheat Ridge,United States,31294
+Placerville,United States,31260
+Milledgeville,United States,31254
+Greenville,United States,31243
+Des Moines,United States,31238
+Banning,United States,31230
+San Pablo,United States,31156
+Auburn,United States,31126
+Goleta,United States,31116
+Pingxiang,China,31109
+Miami Lakes,United States,31087
+Orangeburg,United States,31085
+Sherwood,United States,31081
+Harker Heights,United States,31075
+Dumfries,United Kingdom,31044
+Algonquin,United States,31017
+Wooster,United States,31011
+Brooklyn Center,United States,31006
+Saratoga,United States,30905
+Greer,United States,30899
+Winter Park,United States,30879
+Nogales,United States,30876
+Rochester,United States,30797
+Gurnee,United States,30767
+Long Branch,United States,30762
+Santa Paula,United States,30747
+Los Altos,United States,30743
+Los Gatos,United States,30724
+Aiken,United States,30721
+Holladay,United States,30709
+Burlingame,United States,30686
+San Luis,United States,30647
+Clinton,United States,30642
+Butte,United States,30628
+Peru,United States,30611
+Barstow,United States,30606
+Nicholasville,United States,30600
+San Carlos,United States,30499
+Smithfield,United States,30482
+North Tonawanda,United States,30475
+Westfield,United States,30433
+Atascadero,United States,30418
+North Royalton,United States,30294
+Texarkana,United States,30259
+Opelika,United States,30240
+Garden City,United States,30206
+Walnut,United States,30199
+Ballwin,United States,30181
+Gloucester,United States,30172
+Kerrville,United States,30148
+East Liverpool,United States,30146
+Rahway,United States,30131
+Wuyuan,China,30057
+Madison Heights,United States,30050
+Winona,United States,29973
+Milton,United States,29953
+Athens,United States,29926
+Kent,United States,29915
+Chicago Heights,United States,29901
+South Lake Tahoe,United States,29890
+Lawrenceville,United States,29873
+Rexburg,United States,29859
+North Chicago,United States,29842
+Fountain,United States,29804
+Highland Park,United States,29767
+East Palo Alto,United States,29765
+Port Chester,United States,29711
+Oak Park,United States,29654
+Suisun,United States,29639
+Ukiah,United States,29637
+Somerset,United States,29633
+Crown Point,United States,29625
+New Iberia,United States,29620
+Saratoga Springs,United States,29608
+American Fork,United States,29527
+Syracuse,United States,29507
+Fitchburg,United States,29485
+Niles,United States,29482
+Duluth,United States,29463
+Chamblee,United States,29428
+Atwater,United States,29397
+O'Fallon,United States,29272
+Sanford,United States,29264
+Firestone,United States,29254
+Cibolo,United States,29249
+Raytown,United States,29211
+Athens,United States,29192
+Cornelius,United States,29191
+SeaTac,United States,29140
+Geneva,United States,29140
+Stockbridge,United States,29114
+Englewood,United States,29112
+Oak Ridge,United States,29096
+Aberdeen,United States,29089
+Southgate,United States,29084
+Lumberton,United States,29047
+Plattsburgh,United States,29006
+Central,United States,28984
+Morgan City,United States,28964
+Lake in the Hills,United States,28936
+Hermiston,United States,28925
+Shamokin,United States,28903
+Newberg,United States,28886
+Garner,United States,28858
+Burlington,United States,28830
+Burbank,United States,28793
+Maryville,United States,28765
+Granite City,United States,28746
+Henderson,United States,28657
+Burton,United States,28643
+Monterey,United States,28639
+Schererville,United States,28633
+Big Spring,United States,28624
+Northampton,United States,28593
+Harrison,United States,28587
+Jacksonville,United States,28513
+Bella Vista,United States,28511
+Casselberry,United States,28395
+Sunbury,United States,28389
+Melrose,United States,28367
+Newburgh,United States,28363
+Benicia,United States,28343
+Wisconsin Rapids,United States,28277
+Aberdeen,United States,28264
+Hobart,United States,28255
+East Chicago,United States,28215
+Ruston,United States,28199
+Oakdale,United States,28083
+Glen Ellyn,United States,28045
+Belle Glade,United States,27999
+Sonora,United States,27995
+Lansing,United States,27962
+Canton,United States,27936
+Bergenfield,United States,27927
+Millville,United States,27918
+Fuquay-Varina,United States,27906
+Gloversville,United States,27893
+Fridley,United States,27853
+Ashtabula,United States,27840
+Garfield Heights,United States,27835
+Seguin,United States,27768
+Monroeville,United States,27716
+Dodge City,United States,27696
+Sterling,United States,27695
+Oak Forest,United States,27685
+Kirkwood,United States,27653
+Independence,United States,27634
+Maywood,United States,27586
+Sanger,United States,27582
+Galt,United States,27571
+Windsor,United States,27548
+Fremont,United States,27533
+Kinston,United States,27517
+Glen Cove,United States,27500
+Tualatin,United States,27478
+Bayan Obo,China,27476
+Rockledge,United States,27476
+Shaker Heights,United States,27440
+Imperial Beach,United States,27418
+Wilmette,United States,27418
+Jeffersontown,United States,27395
+Canon City,United States,27368
+Vicksburg,United States,27357
+Saint Helens,United States,27278
+Plum,United States,27258
+Tonghua,China,27227
+Monticello,United States,27215
+Huntley,United States,27207
+West Chicago,United States,27182
+Searcy,United States,27180
+Allen Park,United States,27156
+Lindenhurst,United States,27153
+Belmont,United States,27140
+Gladstone,United States,27140
+Waterville,United States,27123
+Easton,United States,27109
+Lemon Grove,United States,27108
+Indiana,United States,27105
+Horn Lake,United States,27095
+Lewes,United States,27087
+New London,United States,27072
+Paramus,United States,27032
+Norfolk,United States,27016
+Fernandina Beach,United States,27005
+Maryland Heights,United States,26996
+Shelby,United States,26962
+Wasco,United States,26935
+McHenry,United States,26911
+Paragould,United States,26858
+Yukon,United States,26830
+Seneca,United States,26818
+Shoreview,United States,26794
+Cortland,United States,26769
+Norco,United States,26761
+Mint Hill,United States,26748
+Bixby,United States,26724
+Rock Springs,United States,26710
+Zionsville,United States,26710
+West Linn,United States,26703
+Colleyville,United States,26674
+Waynesboro,United States,26672
+East Saint Louis,United States,26662
+Statesville,United States,26657
+Garden City,United States,26650
+Thomasville,United States,26615
+Marshalltown,United States,26593
+Ramsey,United States,26587
+Natchez,United States,26579
+New Lenox,United States,26575
+Batavia,United States,26563
+Xenia,United States,26562
+Chaska,United States,26561
+Pearl,United States,26534
+Mount Pleasant,United States,26525
+Temple Terrace,United States,26489
+Soledad,United States,26483
+Alvin,United States,26474
+Brawley,United States,26472
+New Smyrna Beach,United States,26470
+Morrisville,United States,26461
+Mason City,United States,26457
+Lafayette,United States,26440
+Lebanon,United States,26414
+Washington,United States,26405
+Prior Lake,United States,26401
+Sedalia,United States,26399
+Bessemer,United States,26386
+Lemoore,United States,26355
+Muscatine,United States,26335
+Williston,United States,26301
+Vernon Hills,United States,26253
+Superior,United States,26194
+Medina,United States,26190
+Cabot,United States,26141
+Barberton,United States,26120
+Eagle,United States,26089
+Laurel,United States,26063
+Snoqualmie,United States,26054
+Marquette,United States,26029
+Winchester,United States,25996
+Paris,United States,25961
+Neenah,United States,25951
+Sachse,United States,25937
+Espanola,United States,25913
+Brownsburg,United States,25911
+Laurel,United States,25906
+South Pasadena,United States,25888
+White Bear Lake,United States,25888
+Lake City,United States,25869
+Troy,United States,25865
+Salem,United States,25862
+Okeechobee,United States,25846
+Woodstock,United States,25833
+Maple Valley,United States,25758
+Green,United States,25747
+Ridgewood,United States,25692
+Scottsbluff,United States,25662
+Madison,United States,25627
+Owatonna,United States,25587
+Moscow,United States,25579
+Chanhassen,United States,25558
+Hercules,United States,25545
+Boone,United States,25532
+El Cerrito,United States,25515
+South Portland,United States,25483
+Forest City,United States,25481
+Homewood,United States,25476
+Lockport,United States,25434
+Ossining,United States,25403
+Hutto,United States,25367
+Claremore,United States,25365
+Balch Springs,United States,25357
+Tarpon Springs,United States,25331
+Windsor,United States,25330
+Austin,United States,25321
+Hazelwood,United States,25290
+Kingsville,United States,25286
+Mercer Island,United States,25261
+Midlothian,United States,25254
+Lancaster,United States,25247
+University Park,United States,25201
+Melrose Park,United States,25197
+Belvidere,United States,25181
+Juneau,United States,25180
+Sebastian,United States,25174
+Grandview,United States,25159
+Clinton,United States,25154
+Cliffside Park,United States,25142
+Northport,United States,25094
+Riverside,United States,25094
+Franklin,United States,25089
+Opelousas,United States,25056
+De Pere,United States,25034
+Champlin,United States,25022
+Yucca Valley,United States,25009
+Caledonia,United States,25002
+Greenville,United States,25000
+Muskego,United States,24996
+Wyandotte,United States,24977
+Edwardsville,United States,24967
+Lodi,United States,24961
+Sevierville,United States,24958
+South Salt Lake,United States,24956
+Newport,United States,24942
+Harvey,United States,24908
+Palm Springs,United States,24892
+Hanahan,United States,24885
+West Memphis,United States,24860
+Ponca City,United States,24849
+Rockville Centre,United States,24848
+Walker,United States,24822
+Westmont,United States,24756
+McDonough,United States,24755
+Riverbank,United States,24740
+Ontario,United States,24738
+San Fernando,United States,24714
+Palmetto Bay,United States,24710
+Collinsville,United States,24703
+Burlington,United States,24687
+Branson,United States,24682
+Emporia,United States,24639
+Watauga,United States,24602
+Homer Glen,United States,24591
+Fountain Hills,United States,24583
+Chesapeake Beach,United States,24565
+Elmwood Park,United States,24537
+Herndon,United States,24532
+San Benito,United States,24528
+Bainbridge Island,United States,24522
+Elk River,United States,24506
+Norton Shores,United States,24501
+Inkster,United States,24453
+South Plainfield,United States,24435
+Coronado,United States,24417
+Freeport,United States,24412
+Brookings,United States,24400
+Hastings,United States,24391
+Kernersville,United States,24386
+Trotwood,United States,24386
+Denison,United States,24380
+Waycross,United States,24367
+North Platte,United States,24352
+Rosemount,United States,24344
+Seal Beach,United States,24326
+Angangxi,China,24317
+Tifton,United States,24314
+Haines City,United States,24304
+Peekskill,United States,24272
+Thomasville,United States,24271
+Ridgeland,United States,24266
+Erie,United States,24234
+Fort Dodge,United States,24223
+Ottumwa,United States,24206
+Calabasas,United States,24202
+Wuchuan,China,23776
+Jyekundo,China,23000
+Erenhot,China,22287
+Omagh,United Kingdom,21056
+Penzance,United Kingdom,20812
+Shangdu,China,18831
+Lijiang,China,18445
+Anxi,China,17886
+Bugt,China,17457
+Gyangze,China,10000
+Gar,China,10000
+Fort William,United Kingdom,9652
+Kirkwall,United Kingdom,8500
+Guide,China,7642
+Wick,United Kingdom,7147
+Zixing,China,6618
+Lerwick,United Kingdom,6594
+Huize,China,5170
+Kailu,China,2809
+Nagchu,China,2500
+Fulin,China,1049
+Linxi,China,679
+Nyingchi,China,100
+Warrington,United Kingdom,
+Newbury,United Kingdom,
+Swindon,United Kingdom,
+Dudley,United Kingdom,
+Hackney,United Kingdom,
+Matlock,United Kingdom,
+Lochgilphead,United Kingdom,
+Northallerton,United Kingdom,
+Wokingham,United Kingdom,
+City of Westminster,United Kingdom,
+Solihull,United Kingdom,
+Rochdale,United Kingdom,
+Winchester,United Kingdom,
+Wembley,United Kingdom,
+Motherwell,United Kingdom,
+Torquay,United Kingdom,
+Thornbury,United Kingdom,
+Oldham,United Kingdom,
+Elgin,United Kingdom,
+Wallsend,United Kingdom,
+Weston-super-Mare,United Kingdom,
+Hounslow,United Kingdom,
+Irvine,United Kingdom,
+Barnsley,United Kingdom,
+Falkirk,United Kingdom,
+Slough,United Kingdom,
+Huddersfield,United Kingdom,
+Romford,United Kingdom,
+Grays,United Kingdom,
+Hertford,United Kingdom,
+Beverley,United Kingdom,
+Stirling,United Kingdom,
+Darlington,United Kingdom,
+Hereford,United Kingdom,
+Grimsby,United Kingdom,
+Bracknell,United Kingdom,
+Morpeth,United Kingdom,
+Gateshead,United Kingdom,
+Wandsworth,United Kingdom,
+South Shields,United Kingdom,
+Ystrad Mynach,United Kingdom,
+South Bank,United Kingdom,
+Haddington,United Kingdom,
+Aberaeron,United Kingdom,
+Glenrothes,United Kingdom,
+Pen-y-Bont ar Ogwr,United Kingdom,
+Barri,United Kingdom,
+Aylesbury,United Kingdom,
+Lincoln,United Kingdom,
+Bromley,United Kingdom,
+Croydon,United Kingdom,
+Dorchester,United Kingdom,
+Hendon,United Kingdom,
+Hammersmith,United Kingdom,
+Dumbarton,United Kingdom,
+Enfield,United Kingdom,
+Camberwell,United Kingdom,
+Truro,United Kingdom,
+Clydach Vale,United Kingdom,
+Telford,United Kingdom,
+Stockton-on-Tees,United Kingdom,
+Maidenhead,United Kingdom,
+Dalkeith,United Kingdom,
+Wood Green,United Kingdom,
+Pont-y-pwl,United Kingdom,
+Milton Keynes,United Kingdom,
+Hartlepool,United Kingdom,
+Harrow,United Kingdom,
+Oldbury,United Kingdom,
+Ashton-under-Lyne,United Kingdom,
+Wakefield,United Kingdom,
+Trowbridge,United Kingdom,
+Maidstone,United Kingdom,
+Poole,United Kingdom,
+Newport,United Kingdom,
+Walsall,United Kingdom,
+Woolwich,United Kingdom,
+Scunthorpe,United Kingdom,
+Caernarfon,United Kingdom,
+Hamilton,United Kingdom,
+Durham,United Kingdom,
+Warwick,United Kingdom,
+Newtown Saint Boswells,United Kingdom,
+Sutton,United Kingdom,
+Catford,United Kingdom,
+Lambeth,United Kingdom,
+Lewes,United Kingdom,
+Stockport,United Kingdom,
+Chelmsford,United Kingdom,
+Kirkintilloch,United Kingdom,
+Wallasey,United Kingdom,
+Conwy,United Kingdom,
+Rhuthun,United Kingdom,
+Walthamstow,United Kingdom,
+Halifax,United Kingdom,
+Rotherham,United Kingdom,
+Alloa,United Kingdom,
+Ebbw Vale,United Kingdom,
+Forfar,United Kingdom,
+Islington,United Kingdom,
+Caerfyrddin,United Kingdom,
+Ealing,United Kingdom,
+Kilmarnock,United Kingdom,
+Newport,United Kingdom,
+Kensington,United Kingdom,
+Hwlffordd,United Kingdom,
+Uxbridge,United Kingdom,
+Twickenham,United Kingdom,
+Livingston,United Kingdom,
+Paisley,United Kingdom,
+Widnes,United Kingdom,
+Stretford,United Kingdom,
+Stornoway,United Kingdom,
+Morden,United Kingdom,
+Ilford,United Kingdom,
+Poplar,United Kingdom,
+Salford,United Kingdom,
+Derby,United Kingdom,
+Mold,United Kingdom,
+Worcester,United Kingdom,
+Rochester,United Kingdom,
+Chichester,United Kingdom,
+East Ham,United Kingdom,
+Oakham,United Kingdom,
+Gloucester,United Kingdom,
+Wrecsam,United Kingdom,
+Wolverhampton,United Kingdom,
+Llangefni,United Kingdom,
+Hove,United Kingdom,
+Doncaster,United Kingdom,
+Shrewsbury,United Kingdom,
+Camden Town,United Kingdom,
+Bexleyheath,United Kingdom,
+Bury,United Kingdom,
+Merthyr Tudful,United Kingdom,
+Taunton,United Kingdom,
+Port Talbot,United Kingdom,
+Dagenham,United Kingdom,
+Saint Helens,United Kingdom,
+Knowsley,United Kingdom,
+Kingston upon Thames,United Kingdom,
+Wigan,United Kingdom,
+Southport,United Kingdom,
+Preston,United Kingdom,
+Blackburn,United Kingdom,
+Bolton,United Kingdom,
+Hugh Town,United Kingdom,
+Bedford,United Kingdom,
+Chicksands,United Kingdom,
+Sandbach,United Kingdom,
+Llandrindod Wells,United Kingdom,
+Northampton,United Kingdom,
+Giffnock,United Kingdom,
+Downpatrick,United Kingdom,
+Coleraine,United Kingdom,
+Magherafelt,United Kingdom,
+Dungannon,United Kingdom,
+Cookstown,United Kingdom,
+Bangor,United Kingdom,
+Strabane,United Kingdom,
+Enniskillen,United Kingdom,
+Ballymena,United Kingdom,
+Banbridge,United Kingdom,
+Armagh,United Kingdom,
+Newtownabbey,United Kingdom,
+Craigavon,United Kingdom,
+Antrim,United Kingdom,
+Newry,United Kingdom,
+Lisburn,United Kingdom,
+Belfast,United Kingdom,
+Usk,United Kingdom,
+Stafford,United Kingdom,
